@@ -1,0 +1,34 @@
+.add-deposit-tbl{ 
+  border: 2px solid green;
+  padding: 20px;
+}
+
+.remove-deposit-tbl{
+  border: 2px solid red;
+  padding: 20px;
+}
+
+.btn-wrap {
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.add-deposit-tbl h4, .remove-deposit-tbl h4{
+    margin-bottom: 20px;
+}
+
+.table-section{
+  margin-top: 30px;
+}
+
+.balance{
+  float: right;
+  margin: 20px 0;
+  font-weight: bold;
+}
+
+.app-title{
+  text-align: center;
+  background: black;
+  color: red;
+}
